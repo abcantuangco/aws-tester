@@ -20,7 +20,7 @@ const writeItem = () => {
     },
     ConditionExpression: 'info.rating <= :val',
     ExpressionAttributeValues: {
-      ':val': 5.0,
+      ':val': 5.5,
     },
   };
 
